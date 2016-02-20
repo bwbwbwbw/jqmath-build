@@ -1,0 +1,19 @@
+{
+  "name": "jqmath-build",
+  "version": "0.0.3",
+  "description": "Built jqmath library, for your convenience. THIS IS NOT AN OFFICIAL REPO.",
+  "main": "dist/jqmath.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SummerWish/jqmath-build.git"
+  },
+  "keywords": [
+    "jqmath"
+  ],
+  "author": "Mathscribe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SummerWish/jqmath-build/issues"
+  },
+  "homepage": "https://github.com/SummerWish/jqmath-build#readme"
+}
