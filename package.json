@@ -1,8 +1,8 @@
 {
   "name": "jqmath-build",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Built jqmath library, for your convenience. THIS IS NOT AN OFFICIAL REPO.",
-  "main": "dist/jqmath.js",
+  "main": "dist/jqmath-etc.min.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SummerWish/jqmath-build.git"
